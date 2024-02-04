@@ -1,0 +1,24 @@
+{
+  "name": "amtixdev-captcha-verification",
+  "version": "1.0.0-beta",
+  "description": "A simple npm package for generating and verifying captcha codes with numbers for Discord bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmtixDev/amtixdev-captcha-verification.git"
+  },
+  "keywords": [
+    "Captcha",
+    "AmtiXDev",
+    "Verification",
+    "Captcha-Verification"
+  ],
+  "author": "AmtiXDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
