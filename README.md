@@ -21,7 +21,7 @@ A simple npm package for generating and verifying captcha codes with numbers for
 ## Installation
 
 ```bash
-npm install captcha-verification
+npm install amtixdev-captcha-verification
 ```
 
 # Usage
