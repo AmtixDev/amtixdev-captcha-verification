@@ -27,7 +27,7 @@ npm install captcha-verification
 # Usage
 ```js
 const Discord = require('discord.js');
-const CaptchaVerifier = require('captcha-verification');
+const CaptchaVerifier = require('amtixdev-captcha-verification');
 
 const client = new Discord.Client();
 const captchaVerifier = new CaptchaVerifier(client);
